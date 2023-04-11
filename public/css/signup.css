@@ -1,0 +1,36 @@
+.signupdiv{
+    width: 27%;
+    /* padding:10px; */
+    text-align: center;
+    /* border: 1px solid red; */
+    margin: 18rem auto 0rem auto;
+}
+.img{
+    width: 77%;
+    height: 7rem;
+    margin-bottom: 12px;
+}
+.fn,.ln,.m{
+    width: 75%;
+    padding-left: 10px;
+    height: 2rem;
+    border-radius: .2rem;
+    margin-bottom: 4px;
+    border: 1px solid rgb(70, 68, 68);
+    font-family: 'PT Sans Narrow', sans-serif;
+    outline: none;
+}
+
+.btn{
+    width: 78%;
+    padding-left: 5px;
+    height: 3rem;
+    border-radius: .2rem;  
+    border-style: none;
+    border: 1px solid rgb(70, 68, 68);
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: rgb(198, 90, 37);
+    color: white;
+    cursor: pointer;
+    outline: none;
+}
